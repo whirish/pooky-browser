@@ -6,11 +6,15 @@ Enter the Pooky URL, Tohru and Timestamp in `config.js`. Run `npm install` and `
 
 ## Latest Pooky Versions
 
-* **EU**
-  - **URL:** `https://d17ol771963kd3.cloudfront.net/assets/pooky.min.6a517ae7a03bea3f2546.js`
-  - **Tohru:** `b5a78a14552fa5e79a65585f6a0430841267d55219fdbdf46968422d48768ef062be7ffd59f8aa8622ae0a09c7e75566`
-  - **Timestamp:** `1567677540000`
-* **US**
-  - **URL:** `https://assets.supremenewyork.com/assets/pooky.min.2d8ba5f04df1bcd5a874.js`
-  - **Tohru:** `82c97a9a0db9690beb5e98979496c6523b70a2341d5beabaec1d57944caf3ed7ca33b9b4ae6677c8eeb26c994aac4baa`
-  - **Timestamp:** `1567814855000`
+* **EU (Week 7)**
+  - **URL:** `https://assets.supremenewyork.com/assets/pooky.min.6101accc03a8945da026.js`
+  - **Tohru:** `d0782c2ab16c0ff8aa360c88e3ac6521e0500991fda0d5287c12550fc5229bbbb8e8f30078f8bd0c2ca3f3045f434cce90ec0d57038d668708338eca747cee11`
+  - **Timestamp:** `1570701509000`
+* **US (Week 7)**
+  - **URL:** `https://assets.supremenewyork.com/assets/pooky.min.0e18379ce64ccb27e563.js`
+  - **Tohru:** `94145befcd497446144727e31ac9880e6877cf4dbd72ab44f0d4c7e3ba6992d7acf29ee92a7e8e233bd74f33e23d5717438e8503284b13799cd3245cf549bba3`
+  - **Timestamp:** `1570719534000`
+* **JP (Week 5)**
+  - **URL:** `https://d17ol771963kd3.cloudfront.net/assets/pooky.min.14f574b5499bed1cadaa.js`
+  - **Tohru:** `5a9ec55cdd504942e261b9c02adaef09e111a0b73802c941ad9f93ff7f17bc6bb750c87b68bd852ae018d802d7d60f0dd3976d1050691b1d8d5271b47ac19f78`
+  - **Timestamp:** `1569635911000`
